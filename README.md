@@ -1,2 +1,1 @@
-# Data-Analytics
-Excel using dashboard
+AI in data analytics refers to the use of artificial intelligence technologies—such as machine learning, natural language processing, and automation—to collect, process, and analyze data more efficiently than traditional manual methods.Rather than replacing human analysts, AI acts as a "co-pilot," automating repetitive tasks and uncovering patterns or trends in massive, complex datasets that would be difficult for humans to identify on their own.
